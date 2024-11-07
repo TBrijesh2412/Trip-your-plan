@@ -1,0 +1,142 @@
+[
+    {
+        "model": "trips.restaurant",
+        "pk": 1,
+        "fields": {
+            "image": "restaurants/restaurant1.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 2,
+        "fields": {
+            "image": "restaurants/restaurant2.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 3,
+        "fields": {
+            "image": "restaurants/restaurant3.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 4,
+        "fields": {
+            "image": "restaurants/restaurant4.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 5,
+        "fields": {
+            "image": "restaurants/restaurant5.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 6,
+        "fields": {
+            "image": "restaurants/restaurant6.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 7,
+        "fields": {
+            "image": "restaurants/restaurant7.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 8,
+        "fields": {
+            "image": "restaurants/restaurant8.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 9,
+        "fields": {
+            "image": "restaurants/restaurant9.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 10,
+        "fields": {
+            "image": "restaurants/restaurant10.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 11,
+        "fields": {
+            "image": "restaurants/restaurant11.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 12,
+        "fields": {
+            "image": "restaurants/restaurant12.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 13,
+        "fields": {
+            "image": "restaurants/restaurant13.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 14,
+        "fields": {
+            "image": "restaurants/restaurant14.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 15,
+        "fields": {
+            "image": "restaurants/restaurant15.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 16,
+        "fields": {
+            "image": "restaurants/restaurant16.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 17,
+        "fields": {
+            "image": "restaurants/restaurant17.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 18,
+        "fields": {
+            "image": "restaurants/restaurant18.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 19,
+        "fields": {
+            "image": "restaurants/restaurant19.jpg"
+        }
+    },
+    {
+        "model": "trips.restaurant",
+        "pk": 20,
+        "fields": {
+            "image": "restaurants/restaurant20.jpg"
+        }
+    }
+]

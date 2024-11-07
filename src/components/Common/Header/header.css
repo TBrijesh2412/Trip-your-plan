@@ -1,0 +1,172 @@
+/* sticky menu  */
+
+.is-sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  animation: smothScroll 1s forwards;
+  background: #ffffff; /* White */
+  z-index: 999;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important; /* Example box shadow */
+}
+
+@keyframes smothScroll {
+  0% {
+    transform: translateY(-40px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.is-sticky .navbar .navbar-brand a,
+.is-sticky .navbar .offcanvas-body a {
+  color: #000000 !important; /* Black */
+}
+
+.is-sticky .toggle_btn {
+  color: #007bff !important; /* Primary color */
+}
+
+header {
+  position: absolute;
+  top: 0;
+  z-index: 999;
+  padding: 12px 0px;
+  width: 100%;
+}
+
+header .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .navbar .navbar-brand {
+  margin-left: auto;
+}
+
+header .navbar .navbar-brand a {
+  font-size: 32px;
+  color: #fe4e37; /* White */
+  line-height: 150%;
+  font-family: "Gowun Batang", serif; /* Using Gowun Batang */
+  font-weight: 700; /* Bold weight */
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+header .navbar .nav {
+  margin-right: auto;
+}
+
+header .navbar .nav-link {
+  position: relative; /* Required for the pseudo-element */
+  font-size: 14px;
+  color: #ffffff; /* White */
+  line-height: 150%;
+  font-family: "Gowun Batang", serif; /* Using Gowun Batang */
+  font-weight: 400; /* Regular weight */
+  text-transform: uppercase;
+  text-decoration: none; /* Remove default underline */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+header .navbar .nav-link:hover {
+  color: #fe4e37 !important; /* Updated hover color */
+}
+
+header .navbar .nav-link::after {
+  content: ""; /* Empty content for the pseudo-element */
+  display: block;
+  height: 2px; /* Height of the line */
+  background: #fe4e37; /* Color of the line */
+  width: 0; /* Initial width */
+  transition: width 0.3s ease; /* Smooth width transition */
+  position: absolute;
+  left: 50%; /* Center the line */
+  bottom: -5px; /* Position below the text */
+  transform: translateX(-50%); /* Center adjustment */
+}
+
+header .navbar .nav-link:hover::after {
+  width: 100%; /* Full width on hover */
+}
+
+header .navbar .offcanvas-body a {
+  font-size: 14px;
+  color: #ffffff!important; /* White */
+  line-height: 150%;
+  font-family: "Gowun Batang", serif; /* Using Gowun Batang */
+  font-weight: 400; /* Regular weight */
+  text-transform: uppercase;
+}
+
+header .navbar .offcanvas-body .dropdown-menu a {
+  color: black !important;
+}
+
+header .navbar .offcanvas-body a:hover {
+  color: #fe4e37 !important; /* Primary color */
+}
+
+header .navbar .offcanvas-body .dropdown-menu {
+  min-width: 12rem;
+}
+
+header .navbar .offcanvas-body .dropdown-menu .dropdown-item {
+  color: #000000 !important; /* Black */
+}
+
+header .profile-icon {
+  margin-left: auto; /* Push it to the right */
+  cursor: pointer; /* Change cursor to pointer */
+}
+
+header .profile-svg {
+  width: 24px; /* Adjust size as needed */
+  height: 24px; /* Adjust size as needed */
+  fill: #ffffff; /* White color */
+  transition: fill 0.3s ease; /* Smooth color transition */
+}
+
+header .profile-icon:hover .profile-svg {
+  fill: #fe4e37; /* Change to hover color */
+}
+
+
+@media only screen and (max-width: 991px) {
+  header .navbar .toggle_btn {
+    font-size: 14px; /* Example font size */
+    color: #ffffff; /* White */
+    border: 2px solid #ffffff; /* White */
+    padding: 7px 10px;
+  }
+
+  .is-sticky .navbar .toggle_btn {
+    border: 2px solid #007bff; /* Primary color */
+  }
+
+  .offcanvas-header {
+    border: 1px solid gainsboro;
+  }
+
+  .offcanvas-header .logo {
+    font-size: 26px;
+    color: #000000 !important; /* Black */
+    font-family: "Gowun Batang", serif; /* Using Gowun Batang */
+    font-weight: 700; /* Bold weight */
+    text-decoration: none;
+  }
+
+  .offcanvas-body .nav-link {
+    padding: 12px 0px;
+    color: #000000; /* Black */
+  }
+
+  .offcanvas-body .dropdown-item {
+    padding: 12px 10px;
+    color: #000000; /* Black */
+  }
+}

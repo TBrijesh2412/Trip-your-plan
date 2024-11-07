@@ -1,0 +1,63 @@
+/* Custom font styling for descriptions */
+.playwrite-de-grund-<uniquifier> {
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  /* Feature Section Styling */
+  .feature-section {
+      padding: 40px 0px;
+      overflow: hidden;
+  }
+  
+  /* Slick active slide */
+  .feature-section .slick-active {
+      border: none !important;
+  }
+  
+  /* Card styling */
+  .feature-section .card {
+      border: none !important;
+      text-align: center;
+      padding: 0px 14px;
+      margin-bottom: 14px;
+      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+  }
+  
+  /* Card image */
+  .feature-section .card img {
+      width: 75px;
+      margin: 20px auto 14px; /* Added 20px top margin to avoid cutting when scaled up */
+      transition: transform 0.3s ease; /* Smooth transition for image size on hover */
+  }
+  
+  /* Card title */
+  .feature-section .card .card-title {
+      font-size: var(--subTitle);
+      padding: 12px 0px;
+      font-weight: bold;
+      color: var(--headingColor); /* New color variable for heading */
+  }
+  
+  /* Card text (description) */
+  .feature-section .card .card-text {
+      font-size: var(--bodyText);
+      line-height: 22px;
+      color: var(--textclr);
+      font-family: "Playwrite DE Grund", cursive; /* Applying custom font to text (description only) */
+      font-weight: 400; /* Standard weight */
+  }
+  
+  /* Remove card hover effect */
+  .feature-section .card:hover {
+      transform: none; /* Remove card lift effect */
+      box-shadow: none; /* Remove shadow effect */
+  }
+  
+  /* Increase photo size on hover */
+  .feature-section .card:hover img {
+      transform: scale(1.1); /* Increase image size by 10% on hover */
+  }
+  

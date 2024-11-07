@@ -1,0 +1,58 @@
+.feature-section {
+    padding: 60px 0;
+    background-color: #f8f9fa;
+}
+
+.feature-section .feature-card {
+    border: none !important;
+    text-align: center;
+    padding: 20px;
+    margin: 15px; /* Adjust margin for spacing */
+    transition: transform 0.3s;
+    display: flex;
+    flex-direction: column; /* Make the card a flex container */
+    height: 100%; /* Make card take full height of the column */
+}
+
+.feature-section .feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.feature-section .feature-card img {
+    width: 100%; /* Make the image fill the card width */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 150px; /* Set a maximum height for uniformity */
+    object-fit: cover; /* Cover the entire area */
+    margin-bottom: 14px;
+}
+
+.feature-section .feature-card .card-title {
+    font-size: 18px;
+    padding: 10px 0;
+    font-weight: bold;
+    color: var(--textClr);
+}
+
+.feature-section .feature-card .card-text {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #6c757d; /* Secondary color for text */
+    flex-grow: 1; /* Allow text to take up remaining space */
+}
+
+.feature-section .feature-card:hover .card-title {
+    color: var(--primaryClr);
+}
+
+@media (max-width: 991px) {
+    .feature-section .feature-card img {
+        max-height: 120px; /* Adjust image height for smaller screens */
+    }
+}
+
+@media (max-width: 600px) {
+    .feature-section .feature-card {
+        padding: 10px;
+    }
+}

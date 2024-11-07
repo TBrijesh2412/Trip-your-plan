@@ -1,0 +1,117 @@
+.booking-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    width: 500px; /* Increased width for better layout */
+    max-width: 90%;
+    position: relative;
+    overflow-y: auto; /* If content overflows, allow scrolling */
+    max-height: 90vh; /* Prevent modal from growing too large */
+}
+
+.close {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 24px; /* Larger for better visibility */
+    cursor: pointer;
+    color: #333;
+}
+
+h2 {
+    margin: 0 0 20px 0;
+    font-size: 24px; /* Slightly larger heading */
+    text-align: center; /* Center-align heading */
+}
+
+label {
+    display: block;
+    margin-bottom: 15px; /* Increased margin for more space */
+    font-size: 16px;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"] {
+    width: 100%;
+    padding: 12px; /* More padding for a better look */
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px; /* Increased border-radius for softer edges */
+    font-size: 16px;
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+    transition: border-color 0.2s ease-in-out;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+input[type="number"]:focus {
+    border-color: #e67e22; /* Highlighted border on focus */
+    outline: none;
+}
+
+.submit-button {
+    background-color: #e67e22;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 25px; /* Slightly increased margin */
+    font-size: 18px; /* Larger font for better readability */
+    text-transform: uppercase;
+    letter-spacing: 1px; /* Adds a bit of space between letters */
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #d35400;
+}
+
+.guest-details {
+    margin-top: 20px;
+}
+
+.guest-details label {
+    margin-bottom: 10px; /* Slightly reduce margin for guest fields */
+}
+
+/* Add responsiveness for mobile devices */
+@media screen and (max-width: 600px) {
+    .modal-content {
+        width: 90%; /* Ensure the modal takes up most of the screen width */
+    }
+
+    h2 {
+        font-size: 20px; /* Adjust heading size for smaller screens */
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="date"],
+    input[type="number"] {
+        font-size: 14px; /* Reduce input font size on small screens */
+    }
+
+    .submit-button {
+        font-size: 16px; /* Reduce button font size for smaller screens */
+    }
+}

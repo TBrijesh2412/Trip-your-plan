@@ -1,0 +1,106 @@
+/* Container to center form */
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4;
+  }
+  
+  /* Form Card Design */
+  .form-card {
+    background-color: #ffffff;
+    padding: 2rem;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .form-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Form Content */
+  .form-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Form Group (for multiple inputs in a row) */
+  .form-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Input Fields */
+  .form-input {
+    width: 48%;
+    padding: 0.75rem;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #555;
+    transition: all 0.3s ease;
+  }
+  
+  .form-input-full {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+    transition: all 0.3s ease;
+  }
+  
+  /* Input Focus State */
+  .form-input:focus,
+  .form-input-full:focus {
+    outline: none;
+    border-color: #178066;
+    box-shadow: 0px 4px 10px rgba(23, 128, 102, 0.2);
+    background-color: #ffffff;
+  }
+  
+  /* Button */
+  .form-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #178066;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.125rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .form-button:hover {
+    background-color: #62d2a2;
+    transform: scale(1.05);
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .form-input {
+      width: 100%;
+      margin-bottom: 1.5rem;
+    }
+  }

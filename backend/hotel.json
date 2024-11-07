@@ -1,0 +1,143 @@
+[
+    {
+        "model": "trips.hotel",
+        "pk": 1,
+        "fields": {
+            "image": "hotels/hotel1.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 2,
+        "fields": {
+            "image": "hotels/hotel2.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        
+        "pk": 3,
+        "fields": {
+            "image": "hotels/hotel3.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 4,
+        "fields": {
+            "image": "hotels/hotel4.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 5,
+        "fields": {
+            "image": "hotels/hotel5.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 6,
+        "fields": {
+            "image": "hotels/hotel6.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 7,
+        "fields": {
+            "image": "hotels/hotel7.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 8,
+        "fields": {
+            "image": "hotels/hotel8.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 9,
+        "fields": {
+            "image": "hotels/hotel9.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 10,
+        "fields": {
+            "image": "hotels/hotel10.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 11,
+        "fields": {
+            "image": "hotels/hotel11.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 12,
+        "fields": {
+            "image": "hotels/hotel12.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 13,
+        "fields": {
+            "image": "hotels/hotel13.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 14,
+        "fields": {
+            "image": "hotels/hotel14.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 15,
+        "fields": {
+            "image": "hotels/hotel15.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 16,
+        "fields": {
+            "image": "hotels/hotel16.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 17,
+        "fields": {
+            "image": "hotels/hotel17.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 18,
+        "fields": {
+            "image": "hotels/hotel18.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 19,
+        "fields": {
+            "image": "hotels/hotel19.jpg"
+        }
+    },
+    {
+        "model": "trips.hotel",
+        "pk": 20,
+        "fields": {
+            "image": "hotels/hotel20.jpg"
+        }
+    }
+]

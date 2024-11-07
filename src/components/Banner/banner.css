@@ -1,0 +1,239 @@
+/* Banner Section Styles */
+.banner-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--white);
+  padding-top: 150px;
+  padding-left: 50px;
+}
+
+/* Background Video */
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+  /* opacity: 0.8; */
+}
+
+/* Dark Overlay */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  text-align: left;
+  max-width: 40%;
+}
+
+/* Slogan Styles */
+.slogan {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #fe4e37;
+  margin-bottom: 20px;
+}
+
+/* First line of the slogan aligned to the left */
+.slogan-line1 {
+  display: block;
+  text-align: left;
+  opacity: 0;
+  animation: slideInLeft 1.5s ease forwards;
+}
+
+/* Description positioning */
+.description {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+/* Styling for the buttons in the banner */
+.banner-buttons {
+  margin-top: 20px;
+}
+
+.banner-buttons .btn {
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.banner-buttons .login-btn {
+  background-color: #fe4e37;
+  color: #ffffff;
+}
+
+.banner-buttons .login-btn:hover {
+  background-color: #ffffff;
+  color: #fe4e37;
+  transform: scale(1.05);
+}
+
+.banner-buttons .signup-btn {
+  background-color: #ffffff;
+  color: #fe4e37;
+}
+
+.banner-buttons .signup-btn:hover {
+  background-color: #fe4e37;
+  color: #ffffff;
+  transform: scale(1.05);
+}
+
+
+/* Added logout-btn style to match signup-btn */
+.logout-btn {
+  background-color: #fe4e37;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-top: 20px;
+}
+
+.logout-btn:hover {
+  background-color: #ffffff;
+  color: #fe4e37;
+  transform: scale(1.05);
+}
+
+
+/* Form container styles */
+.form-container {
+  position: absolute;
+  top: 50%;
+  right: 100px;
+  transform: translateY(-50%);
+  /* background-color: transparent; */
+  border-radius: 8px;
+  z-index: 2;
+  max-width: 500px;
+}
+
+/* Keyframes for slide-in animations */
+@keyframes slideInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInCenter {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .slogan {
+    font-size: 2.5rem;
+  }
+
+  .description {
+    font-size: 1rem;
+  }
+
+  /* Adjust content and padding for smaller screens */
+  .banner-container {
+    padding-left: 20px;
+    padding-top: 100px;
+  }
+
+  .content {
+    max-width: 60%;
+    /* Expand content area for smaller screens */
+  }
+
+  /* Form container styles for smaller screens */
+  .form-container {
+    right: 20px;
+    /* Move form closer to the edge */
+    max-width: 250px;
+    /* Reduce the form width */
+    padding: 20px;
+    /* Adjust padding for smaller screens */
+  }
+}
+
+
+@media (max-width: 480px) {
+  .slogan {
+    font-size: 2rem;
+  }
+
+  .description {
+    font-size: 0.9rem;
+
+  }
+
+  /* Further adjustments for very small screens */
+  .banner-container {
+    padding-left: 15px;
+    padding-top: 80px;
+  }
+
+  .content {
+    max-width: 80%;
+    /* Expand content area further */
+  }
+
+  /* Form container styles for very small screens */
+  .form-container {
+    top: auto;
+    bottom: 20px;
+    /* Move the form to the bottom */
+    right: 10px;
+    /* Bring form closer to the edge */
+    max-width: 200px;
+    /* Reduce the form width even further */
+    padding: 15px;
+    /* Reduce padding */
+  }
+
+  /* Adjust buttons for very small screens */
+  .banner-buttons .btn {
+    padding: 8px 15px;
+    font-size: 14px;
+  }
+
+  /* Reduce form container box shadow to make it simpler on smaller screens */
+  .form-container {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+}

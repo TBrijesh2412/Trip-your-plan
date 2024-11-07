@@ -1,0 +1,4142 @@
+[
+    {
+        "model": "trips.search",
+        "pk": 1,
+        "fields": {
+            "city_name": "Ahmedabad",
+            "latitude": 23.0225,
+            "longitude": 72.5714
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 2,
+        "fields": {
+            "city_name": "Surat",
+            "latitude": 21.1702,
+            "longitude": 72.8311
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 3,
+        "fields": {
+            "city_name": "Vadodara",
+            "latitude": 22.3072,
+            "longitude": 73.1812
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 4,
+        "fields": {
+            "city_name": "Rajkot",
+            "latitude": 22.3039,
+            "longitude": 70.8022
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 5,
+        "fields": {
+            "city_name": "Bhavnagar",
+            "latitude": 21.7645,
+            "longitude": 72.1519
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 6,
+        "fields": {
+            "city_name": "Jamnagar",
+            "latitude": 22.4707,
+            "longitude": 70.0577
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 7,
+        "fields": {
+            "city_name": "Junagadh",
+            "latitude": 21.5222,
+            "longitude": 70.4579
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 8,
+        "fields": {
+            "city_name": "Gandhinagar",
+            "latitude": 23.2156,
+            "longitude": 72.6369
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 9,
+        "fields": {
+            "city_name": "Anand",
+            "latitude": 22.5645,
+            "longitude": 72.9289
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 10,
+        "fields": {
+            "city_name": "Nadiad",
+            "latitude": 22.6939,
+            "longitude": 72.8616
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 11,
+        "fields": {
+            "city_name": "Morbi",
+            "latitude": 22.8173,
+            "longitude": 70.8377
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 12,
+        "fields": {
+            "city_name": "Palanpur",
+            "latitude": 24.1702,
+            "longitude": 72.4382
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 13,
+        "fields": {
+            "city_name": "Bharuch",
+            "latitude": 21.7051,
+            "longitude": 72.9959
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 14,
+        "fields": {
+            "city_name": "Navsari",
+            "latitude": 20.9467,
+            "longitude": 72.9520
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 15,
+        "fields": {
+            "city_name": "Valsad",
+            "latitude": 20.5992,
+            "longitude": 72.9342
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 16,
+        "fields": {
+            "city_name": "Porbandar",
+            "latitude": 21.6417,
+            "longitude": 69.6267
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 17,
+        "fields": {
+            "city_name": "Dahod",
+            "latitude": 22.8351,
+            "longitude": 74.2593
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 18,
+        "fields": {
+            "city_name": "Bhuj",
+            "latitude": 23.2419,
+            "longitude": 69.6669
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 19,
+        "fields": {
+            "city_name": "Godhra",
+            "latitude": 22.7755,
+            "longitude": 73.6149
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 20,
+        "fields": {
+            "city_name": "Mehsana",
+            "latitude": 23.6000,
+            "longitude": 72.4000
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 21,
+        "fields": {
+            "city_name": "Amreli",
+            "latitude": 21.6032,
+            "longitude": 71.2221
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 22,
+        "fields": {
+            "city_name": "Patan",
+            "latitude": 23.8500,
+            "longitude": 72.1296
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 23,
+        "fields": {
+            "city_name": "Vtrips",
+            "latitude": 20.3723,
+            "longitude": 72.9044
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 24,
+        "fields": {
+            "city_name": "Modasa",
+            "latitude": 23.4621,
+            "longitude": 73.2989
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 25,
+        "fields": {
+            "city_name": "Botad",
+            "latitude": 22.1692,
+            "longitude": 71.6673
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 26,
+        "fields": {
+            "city_name": "Veraval",
+            "latitude": 20.9077,
+            "longitude": 70.3676
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 27,
+        "fields": {
+            "city_name": "Unjha",
+            "latitude": 23.8037,
+            "longitude": 72.3910
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 28,
+        "fields": {
+            "city_name": "Kalol",
+            "latitude": 23.2536,
+            "longitude": 72.4932
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 29,
+        "fields": {
+            "city_name": "Dwarka",
+            "latitude": 22.2395,
+            "longitude": 68.9674
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 30,
+        "fields": {
+            "city_name": "Dholka",
+            "latitude": 22.7275,
+            "longitude": 72.4413
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 31,
+        "fields": {
+            "city_name": "Surendranagar",
+            "latitude": 22.7186,
+            "longitude": 71.6674
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 32,
+        "fields": {
+            "city_name": "Kheda",
+            "latitude": 22.7528,
+            "longitude": 72.6842
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 33,
+        "fields": {
+            "city_name": "Himatnagar",
+            "latitude": 23.5989,
+            "longitude": 72.9660
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 34,
+        "fields": {
+            "city_name": "Mandvi",
+            "latitude": 22.8326,
+            "longitude": 69.3522
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 35,
+        "fields": {
+            "city_name": "Khambhat",
+            "latitude": 22.3179,
+            "longitude": 72.6190
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 36,
+        "fields": {
+            "city_name": "Gondal",
+            "latitude": 21.9601,
+            "longitude": 70.8020
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 37,
+        "fields": {
+            "city_name": "Borsad",
+            "latitude": 22.4710,
+            "longitude": 72.8940
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 38,
+        "fields": {
+            "city_name": "Jetpur",
+            "latitude": 21.7634,
+            "longitude": 70.6231
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 39,
+        "fields": {
+            "city_name": "Siddhpur",
+            "latitude": 23.9170,
+            "longitude": 72.3660
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 40,
+        "fields": {
+            "city_name": "Chhota Udaipur",
+            "latitude": 22.3049,
+            "longitude": 74.0163
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 41,
+        "fields": {
+            "city_name": "Dhoraji",
+            "latitude": 21.7336,
+            "longitude": 70.4503
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 42,
+        "fields": {
+            "city_name": "Halol",
+            "latitude": 22.5033,
+            "longitude": 73.4725
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 43,
+        "fields": {
+            "city_name": "Umreth",
+            "latitude": 22.6983,
+            "longitude": 73.1163
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 44,
+        "fields": {
+            "city_name": "Sanand",
+            "latitude": 22.9926,
+            "longitude": 72.3846
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 45,
+        "fields": {
+            "city_name": "Kalavad",
+            "latitude": 22.2089,
+            "longitude": 70.3834
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 46,
+        "fields": {
+            "city_name": "Mahuva",
+            "latitude": 21.1002,
+            "longitude": 71.7706
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 47,
+        "fields": {
+            "city_name": "Lathi",
+            "latitude": 21.7231,
+            "longitude": 71.3880
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 48,
+        "fields": {
+            "city_name": "Mangrol",
+            "latitude": 21.1224,
+            "longitude": 70.1148
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 49,
+        "fields": {
+            "city_name": "Manavadar",
+            "latitude": 21.4985,
+            "longitude": 70.1374
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 50,
+        "fields": {
+            "city_name": "Lunawada",
+            "latitude": 23.1301,
+            "longitude": 73.6090
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 51,
+        "fields": {
+            "city_name": "Modasa",
+            "latitude": 23.4625,
+            "longitude": 73.2986
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 52,
+        "fields": {
+            "city_name": "Dabhoi",
+            "latitude": 22.1273,
+            "longitude": 73.4325
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 53,
+        "fields": {
+            "city_name": "Padra",
+            "latitude": 22.2395,
+            "longitude": 73.0834
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 54,
+        "fields": {
+            "city_name": "Viramgam",
+            "latitude": 23.1255,
+            "longitude": 72.0394
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 55,
+        "fields": {
+            "city_name": "Veraval",
+            "latitude": 20.9077,
+            "longitude": 70.3679
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 56,
+        "fields": {
+            "city_name": "Wankaner",
+            "latitude": 22.6123,
+            "longitude": 70.9435
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 57,
+        "fields": {
+            "city_name": "Unjha",
+            "latitude": 23.8031,
+            "longitude": 72.3914
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 58,
+        "fields": {
+            "city_name": "Patan",
+            "latitude": 23.8500,
+            "longitude": 72.1000
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 59,
+        "fields": {
+            "city_name": "Deesa",
+            "latitude": 24.2579,
+            "longitude": 72.1855
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 60,
+        "fields": {
+            "city_name": "Savarkundla",
+            "latitude": 21.3377,
+            "longitude": 71.3040
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 61,
+        "fields": {
+            "city_name": "Mundra",
+            "latitude": 22.8393,
+            "longitude": 69.7216
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 62,
+        "fields": {
+            "city_name": "Radhanpur",
+            "latitude": 23.8333,
+            "longitude": 71.6000
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 63,
+        "fields": {
+            "city_name": "Anjar",
+            "latitude": 23.1132,
+            "longitude": 70.0266
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 64,
+        "fields": {
+            "city_name": "Visnagar",
+            "latitude": 23.6984,
+            "longitude": 72.5520
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 65,
+        "fields": {
+            "city_name": "Botad",
+            "latitude": 22.1692,
+            "longitude": 71.6663
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 66,
+        "fields": {
+            "city_name": "Bayad",
+            "latitude": 23.3562,
+            "longitude": 73.0756
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 67,
+        "fields": {
+            "city_name": "Kadi",
+            "latitude": 23.2971,
+            "longitude": 72.3293
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 68,
+        "fields": {
+            "city_name": "Idar",
+            "latitude": 23.8396,
+            "longitude": 73.0043
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 69,
+        "fields": {
+            "city_name": "Jambusar",
+            "latitude": 22.0534,
+            "longitude": 72.8008
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 70,
+        "fields": {
+            "city_name": "Talaja",
+            "latitude": 21.3525,
+            "longitude": 72.0435
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 71,
+        "fields": {
+            "city_name": "Mumbai",
+            "latitude": 19.0760,
+            "longitude": 72.8777
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 72,
+        "fields": {
+            "city_name": "Pune",
+            "latitude": 18.5204,
+            "longitude": 73.8567
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 73,
+        "fields": {
+            "city_name": "Nagpur",
+            "latitude": 21.1458,
+            "longitude": 79.0882
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 74,
+        "fields": {
+            "city_name": "Nashik",
+            "latitude": 19.9975,
+            "longitude": 73.7898
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 75,
+        "fields": {
+            "city_name": "Aurangabad",
+            "latitude": 19.8762,
+            "longitude": 75.3433
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 76,
+        "fields": {
+            "city_name": "Solapur",
+            "latitude": 17.6599,
+            "longitude": 75.9064
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 77,
+        "fields": {
+            "city_name": "Thane",
+            "latitude": 19.2183,
+            "longitude": 72.9781
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 78,
+        "fields": {
+            "city_name": "Kalyan-Dombivli",
+            "latitude": 19.2189,
+            "longitude": 73.1528
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 79,
+        "fields": {
+            "city_name": "Chinchwad",
+            "latitude": 18.6282,
+            "longitude": 73.8206
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 80,
+        "fields": {
+            "city_name": "Sangli",
+            "latitude": 16.8602,
+            "longitude": 74.5765
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 81,
+        "fields": {
+            "city_name": "Akola",
+            "latitude": 20.7040,
+            "longitude": 77.0000
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 82,
+        "fields": {
+            "city_name": "Jalna",
+            "latitude": 19.8402,
+            "longitude": 75.8870
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 83,
+        "fields": {
+            "city_name": "Ratnagiri",
+            "latitude": 16.9957,
+            "longitude": 73.2995
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 84,
+        "fields": {
+            "city_name": "Bhandara",
+            "latitude": 21.1662,
+            "longitude": 79.6746
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 85,
+        "fields": {
+            "city_name": "Washim",
+            "latitude": 20.1015,
+            "longitude": 77.1287
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 86,
+        "fields": {
+            "city_name": "Beed",
+            "latitude": 19.6343,
+            "longitude": 75.6888
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 87,
+        "fields": {
+            "city_name": "Palghar",
+            "latitude": 19.6767,
+            "longitude": 72.7490
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 88,
+        "fields": {
+            "city_name": "Dhule",
+            "latitude": 20.9834,
+            "longitude": 74.7732
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 89,
+        "fields": {
+            "city_name": "Sindhudurg",
+            "latitude": 16.1636,
+            "longitude": 73.6665
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 90,
+        "fields": {
+            "city_name": "Kolhapur",
+            "latitude": 16.7050,
+            "longitude": 74.2439
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 91,
+        "fields": {
+            "city_name": "Karad",
+            "latitude": 17.2851,
+            "longitude": 74.1522
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 92,
+        "fields": {
+            "city_name": "Nagapur",
+            "latitude": 21.1458,
+            "longitude": 79.0882
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 93,
+        "fields": {
+            "city_name": "Malvan",
+            "latitude": 16.0418,
+            "longitude": 73.4957
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 94,
+        "fields": {
+            "city_name": "Matheran",
+            "latitude": 18.9948,
+            "longitude": 73.2632
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 95,
+        "fields": {
+            "city_name": "Latur",
+            "latitude": 18.4013,
+            "longitude": 76.3005
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 96,
+        "fields": {
+            "city_name": "Shirdi",
+            "latitude": 19.7661,
+            "longitude": 74.4762
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 97,
+        "fields": {
+            "city_name": "Nandurbar",
+            "latitude": 21.1167,
+            "longitude": 74.2667
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 98,
+        "fields": {
+            "city_name": "Khandala",
+            "latitude": 18.7474,
+            "longitude": 73.4132
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 99,
+        "fields": {
+            "city_name": "Dahisar",
+            "latitude": 19.2594,
+            "longitude": 72.8602
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 100,
+        "fields": {
+            "city_name": "Chiplun",
+            "latitude": 17.5406,
+            "longitude": 73.5752
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 101,
+        "fields": {
+            "city_name": "Jaipur",
+            "latitude": 26.9124,
+            "longitude": 75.7873
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 102,
+        "fields": {
+            "city_name": "Jodhpur",
+            "latitude": 26.2389,
+            "longitude": 73.0243
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 103,
+        "fields": {
+            "city_name": "Udaipur",
+            "latitude": 24.5854,
+            "longitude": 73.7125
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 104,
+        "fields": {
+            "city_name": "Kota",
+            "latitude": 25.2138,
+            "longitude": 75.8648
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 105,
+        "fields": {
+            "city_name": "Bikaner",
+            "latitude": 28.0229,
+            "longitude": 73.3119
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 106,
+        "fields": {
+            "city_name": "Ajmer",
+            "latitude": 26.4499,
+            "longitude": 74.6399
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 107,
+        "fields": {
+            "city_name": "Alwar",
+            "latitude": 27.5530,
+            "longitude": 76.6346
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 108,
+        "fields": {
+            "city_name": "Bhilwara",
+            "latitude": 25.3464,
+            "longitude": 74.6369
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 109,
+        "fields": {
+            "city_name": "Sikar",
+            "latitude": 27.6094,
+            "longitude": 75.1399
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 110,
+        "fields": {
+            "city_name": "Bharatpur",
+            "latitude": 27.2173,
+            "longitude": 77.4901
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 111,
+        "fields": {
+            "city_name": "Pali",
+            "latitude": 25.7711,
+            "longitude": 73.3234
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 112,
+        "fields": {
+            "city_name": "Chittorgarh",
+            "latitude": 24.8887,
+            "longitude": 74.6269
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 113,
+        "fields": {
+            "city_name": "Tonk",
+            "latitude": 26.1666,
+            "longitude": 75.7885
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 114,
+        "fields": {
+            "city_name": "Sawai Madhopur",
+            "latitude": 26.0227,
+            "longitude": 76.3441
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 115,
+        "fields": {
+            "city_name": "Nagaur",
+            "latitude": 27.2020,
+            "longitude": 73.7409
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 116,
+        "fields": {
+            "city_name": "Barmer",
+            "latitude": 25.7520,
+            "longitude": 71.4167
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 117,
+        "fields": {
+            "city_name": "Banswara",
+            "latitude": 23.5460,
+            "longitude": 74.4344
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 118,
+        "fields": {
+            "city_name": "Dholpur",
+            "latitude": 26.7041,
+            "longitude": 77.8930
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 119,
+        "fields": {
+            "city_name": "Jhunjhunu",
+            "latitude": 28.1286,
+            "longitude": 75.3970
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 120,
+        "fields": {
+            "city_name": "Jaisalmer",
+            "latitude": 26.9157,
+            "longitude": 70.9083
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 121,
+        "fields": {
+            "city_name": "Churu",
+            "latitude": 28.3100,
+            "longitude": 74.9634
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 122,
+        "fields": {
+            "city_name": "Baran",
+            "latitude": 25.1005,
+            "longitude": 76.5132
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 123,
+        "fields": {
+            "city_name": "Bundi",
+            "latitude": 25.4383,
+            "longitude": 75.6374
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 124,
+        "fields": {
+            "city_name": "Dausa",
+            "latitude": 26.8910,
+            "longitude": 76.3340
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 125,
+        "fields": {
+            "city_name": "Sri Ganganagar",
+            "latitude": 29.9038,
+            "longitude": 73.8772
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 126,
+        "fields": {
+            "city_name": "Hanumangarh",
+            "latitude": 29.5818,
+            "longitude": 74.3295
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 127,
+        "fields": {
+            "city_name": "Karoli",
+            "latitude": 26.4983,
+            "longitude": 77.0150
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 128,
+        "fields": {
+            "city_name": "Jhalawar",
+            "latitude": 24.5968,
+            "longitude": 76.1651
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 129,
+        "fields": {
+            "city_name": "Rajsamand",
+            "latitude": 25.0717,
+            "longitude": 73.8798
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 130,
+        "fields": {
+            "city_name": "Sirohi",
+            "latitude": 24.8883,
+            "longitude": 72.8570
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 131,
+        "fields": {
+            "city_name": "Indore",
+            "latitude": 22.7197,
+            "longitude": 75.8573
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 132,
+        "fields": {
+            "city_name": "Gwalior",
+            "latitude": 26.2183,
+            "longitude": 78.1826
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 133,
+        "fields": {
+            "city_name": "Jabalpur",
+            "latitude": 23.1668,
+            "longitude": 79.9555
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 134,
+        "fields": {
+            "city_name": "Ujjain",
+            "latitude": 23.1780,
+            "longitude": 75.7804
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 135,
+        "fields": {
+            "city_name": "Sagar",
+            "latitude": 23.8534,
+            "longitude": 78.7362
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 136,
+        "fields": {
+            "city_name": "Dewas",
+            "latitude": 22.9664,
+            "longitude": 76.0603
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 137,
+        "fields": {
+            "city_name": "Satna",
+            "latitude": 24.5720,
+            "longitude": 80.8395
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 138,
+        "fields": {
+            "city_name": "Ratlam",
+            "latitude": 23.3205,
+            "longitude": 75.0622
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 139,
+        "fields": {
+            "city_name": "Mandsaur",
+            "latitude": 24.0708,
+            "longitude": 75.0748
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 140,
+        "fields": {
+            "city_name": "Khargone",
+            "latitude": 21.5940,
+            "longitude": 75.5644
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 141,
+        "fields": {
+            "city_name": "Bhind",
+            "latitude": 26.5725,
+            "longitude": 78.7969
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 142,
+        "fields": {
+            "city_name": "Morena",
+            "latitude": 26.5987,
+            "longitude": 78.1782
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 143,
+        "fields": {
+            "city_name": "Chhindwara",
+            "latitude": 22.0588,
+            "longitude": 78.9437
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 144,
+        "fields": {
+            "city_name": "Shivpuri",
+            "latitude": 25.4277,
+            "longitude": 77.6648
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 145,
+        "fields": {
+            "city_name": "Sehore",
+            "latitude": 23.1996,
+            "longitude": 77.0927
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 146,
+        "fields": {
+            "city_name": "Khandwa",
+            "latitude": 21.8370,
+            "longitude": 76.3502
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 147,
+        "fields": {
+            "city_name": "Vidisha",
+            "latitude": 23.5149,
+            "longitude": 77.7506
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 148,
+        "fields": {
+            "city_name": "Jhabua",
+            "latitude": 22.7393,
+            "longitude": 74.3584
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 149,
+        "fields": {
+            "city_name": "Narsinghpur",
+            "latitude": 22.9551,
+            "longitude": 79.0884
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 150,
+        "fields": {
+            "city_name": "Dhar",
+            "latitude": 22.5997,
+            "longitude": 75.3049
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 151,
+        "fields": {
+            "city_name": "Panna",
+            "latitude": 24.1848,
+            "longitude": 80.1734
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 152,
+        "fields": {
+            "city_name": "Sihora",
+            "latitude": 23.0952,
+            "longitude": 79.7407
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 153,
+        "fields": {
+            "city_name": "Biaora",
+            "latitude": 23.9041,
+            "longitude": 76.8562
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 154,
+        "fields": {
+            "city_name": "Raisen",
+            "latitude": 23.2757,
+            "longitude": 77.7760
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 155,
+        "fields": {
+            "city_name": "Amarkantak",
+            "latitude": 22.6772,
+            "longitude": 81.6351
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 156,
+        "fields": {
+            "city_name": "Nagda",
+            "latitude": 23.2687,
+            "longitude": 75.4570
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 157,
+        "fields": {
+            "city_name": "Hoshangabad",
+            "latitude": 22.7481,
+            "longitude": 77.4261
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 158,
+        "fields": {
+            "city_name": "Mandideep",
+            "latitude": 23.1341,
+            "longitude": 77.4157
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 159,
+        "fields": {
+            "city_name": "Barwani",
+            "latitude": 21.0452,
+            "longitude": 74.9132
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 160,
+        "fields": {
+            "city_name": "Bhopal",
+            "latitude": 23.2599,
+            "longitude": 77.4126
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 161,
+        "fields": {
+            "city_name": "Lucknow",
+            "latitude": 26.8467,
+            "longitude": 80.9462
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 162,
+        "fields": {
+            "city_name": "Kanpur",
+            "latitude": 26.4499,
+            "longitude": 80.3319
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 163,
+        "fields": {
+            "city_name": "Agra",
+            "latitude": 27.1767,
+            "longitude": 78.0081
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 164,
+        "fields": {
+            "city_name": "Varanasi",
+            "latitude": 25.3176,
+            "longitude": 82.9739
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 165,
+        "fields": {
+            "city_name": "Ghaziabad",
+            "latitude": 28.6692,
+            "longitude": 77.4538
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 166,
+        "fields": {
+            "city_name": "Noida",
+            "latitude": 28.5355,
+            "longitude": 77.3910
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 167,
+        "fields": {
+            "city_name": "Meerut",
+            "latitude": 28.9845,
+            "longitude": 77.7066
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 168,
+        "fields": {
+            "city_name": "Bareilly",
+            "latitude": 28.3682,
+            "longitude": 79.4305
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 169,
+        "fields": {
+            "city_name": "Aligarh",
+            "latitude": 27.8974,
+            "longitude": 78.0882
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 170,
+        "fields": {
+            "city_name": "Moradabad",
+            "latitude": 28.8394,
+            "longitude": 78.7760
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 171,
+        "fields": {
+            "city_name": "Saharanpur",
+            "latitude": 29.9554,
+            "longitude": 77.5492
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 172,
+        "fields": {
+            "city_name": "Firozabad",
+            "latitude": 27.1595,
+            "longitude": 78.3932
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 173,
+        "fields": {
+            "city_name": "Jhansi",
+            "latitude": 25.4488,
+            "longitude": 78.5693
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 174,
+        "fields": {
+            "city_name": "Badaun",
+            "latitude": 28.5800,
+            "longitude": 79.1597
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 175,
+        "fields": {
+            "city_name": "Ayodhya",
+            "latitude": 26.7989,
+            "longitude": 82.1985
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 176,
+        "fields": {
+            "city_name": "Rampur",
+            "latitude": 28.7919,
+            "longitude": 79.0240
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 177,
+        "fields": {
+            "city_name": "Bijnor",
+            "latitude": 29.3726,
+            "longitude": 78.1334
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 178,
+        "fields": {
+            "city_name": "Sitapur",
+            "latitude": 27.5742,
+            "longitude": 80.6861
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 179,
+        "fields": {
+            "city_name": "Muzaffarnagar",
+            "latitude": 29.4674,
+            "longitude": 77.7082
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 180,
+        "fields": {
+            "city_name": "Kushinagar",
+            "latitude": 26.7431,
+            "longitude": 83.8668
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 181,
+        "fields": {
+            "city_name": "Hapur",
+            "latitude": 28.7327,
+            "longitude": 78.4796
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 182,
+        "fields": {
+            "city_name": "Bahraich",
+            "latitude": 27.5786,
+            "longitude": 81.6705
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 183,
+        "fields": {
+            "city_name": "Shahjahanpur",
+            "latitude": 27.8950,
+            "longitude": 79.9087
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 184,
+        "fields": {
+            "city_name": "Gonda",
+            "latitude": 27.0585,
+            "longitude": 81.9675
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 185,
+        "fields": {
+            "city_name": "Hardoi",
+            "latitude": 27.4182,
+            "longitude": 80.1204
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 186,
+        "fields": {
+            "city_name": "Chitrakoot",
+            "latitude": 25.1924,
+            "longitude": 80.8446
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 187,
+        "fields": {
+            "city_name": "Siddharthnagar",
+            "latitude": 27.2155,
+            "longitude": 82.7600
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 188,
+        "fields": {
+            "city_name": "Azamgarh",
+            "latitude": 28.1000,
+            "longitude": 83.1850
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 189,
+        "fields": {
+            "city_name": "Kushinagar",
+            "latitude": 26.7478,
+            "longitude": 83.8690
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 190,
+        "fields": {
+            "city_name": "Lakhimpur Kheri",
+            "latitude": 27.9428,
+            "longitude": 80.6062
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 191,
+        "fields": {
+            "city_name": "Gurgaon",
+            "latitude": 28.4595,
+            "longitude": 77.0266
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 192,
+        "fields": {
+            "city_name": "Faridabad",
+            "latitude": 28.4089,
+            "longitude": 77.3178
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 193,
+        "fields": {
+            "city_name": "Panipat",
+            "latitude": 29.3909,
+            "longitude": 76.9635
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 194,
+        "fields": {
+            "city_name": "Ambala",
+            "latitude": 30.3782,
+            "longitude": 76.7767
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 195,
+        "fields": {
+            "city_name": "Yamunanagar",
+            "latitude": 30.1290,
+            "longitude": 77.2674
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 196,
+        "fields": {
+            "city_name": "Hisar",
+            "latitude": 29.1492,
+            "longitude": 75.7217
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 197,
+        "fields": {
+            "city_name": "Rohtak",
+            "latitude": 28.8955,
+            "longitude": 76.6066
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 198,
+        "fields": {
+            "city_name": "Karnal",
+            "latitude": 29.6857,
+            "longitude": 76.9905
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 199,
+        "fields": {
+            "city_name": "Sonipat",
+            "latitude": 28.9931,
+            "longitude": 77.0167
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 200,
+        "fields": {
+            "city_name": "Panchkula",
+            "latitude": 30.6942,
+            "longitude": 76.8606
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 201,
+        "fields": {
+            "city_name": "Bhiwani",
+            "latitude": 28.7910,
+            "longitude": 76.1411
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 202,
+        "fields": {
+            "city_name": "Jind",
+            "latitude": 29.3162,
+            "longitude": 76.3144
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 203,
+        "fields": {
+            "city_name": "Rewari",
+            "latitude": 28.1971,
+            "longitude": 76.6174
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 204,
+        "fields": {
+            "city_name": "Mahendragarh",
+            "latitude": 28.2692,
+            "longitude": 76.1510
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 205,
+        "fields": {
+            "city_name": "Kaithal",
+            "latitude": 29.8013,
+            "longitude": 76.3967
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 206,
+        "fields": {
+            "city_name": "Kurukshetra",
+            "latitude": 29.9695,
+            "longitude": 76.8783
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 207,
+        "fields": {
+            "city_name": "Sirsa",
+            "latitude": 29.5349,
+            "longitude": 75.0281
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 208,
+        "fields": {
+            "city_name": "Palwal",
+            "latitude": 28.1447,
+            "longitude": 77.3252
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 209,
+        "fields": {
+            "city_name": "Fatehabad",
+            "latitude": 29.5143,
+            "longitude": 75.4507
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 210,
+        "fields": {
+            "city_name": "Narnaul",
+            "latitude": 28.0444,
+            "longitude": 76.1083
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 211,
+        "fields": {
+            "city_name": "Bahadurgarh",
+            "latitude": 28.6929,
+            "longitude": 76.9330
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 212,
+        "fields": {
+            "city_name": "Charkhi Dadri",
+            "latitude": 28.5927,
+            "longitude": 76.2711
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 213,
+        "fields": {
+            "city_name": "Gohana",
+            "latitude": 29.1377,
+            "longitude": 76.6955
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 214,
+        "fields": {
+            "city_name": "Narwana",
+            "latitude": 29.5949,
+            "longitude": 76.1204
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 215,
+        "fields": {
+            "city_name": "Hansi",
+            "latitude": 29.1024,
+            "longitude": 75.9627
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 216,
+        "fields": {
+            "city_name": "Taraori",
+            "latitude": 29.8006,
+            "longitude": 76.9293
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 217,
+        "fields": {
+            "city_name": "Ratia",
+            "latitude": 29.6945,
+            "longitude": 75.5756
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 218,
+        "fields": {
+            "city_name": "Samalkha",
+            "latitude": 29.2358,
+            "longitude": 77.0155
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 219,
+        "fields": {
+            "city_name": "Shahbad",
+            "latitude": 30.1699,
+            "longitude": 77.1285
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 220,
+        "fields": {
+            "city_name": "Safidon",
+            "latitude": 29.4054,
+            "longitude": 76.6670
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 221,
+        "fields": {
+            "city_name": "Raipur",
+            "latitude": 21.2514,
+            "longitude": 81.6296
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 222,
+        "fields": {
+            "city_name": "Bilaspur",
+            "latitude": 22.0794,
+            "longitude": 82.1466
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 223,
+        "fields": {
+            "city_name": "Durg",
+            "latitude": 21.2001,
+            "longitude": 81.2847
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 224,
+        "fields": {
+            "city_name": "Rajnandgaon",
+            "latitude": 21.0956,
+            "longitude": 81.0375
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 225,
+        "fields": {
+            "city_name": "Korba",
+            "latitude": 22.3592,
+            "longitude": 82.6816
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 226,
+        "fields": {
+            "city_name": "Jagdalpur",
+            "latitude": 19.0740,
+            "longitude": 82.6372
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 227,
+        "fields": {
+            "city_name": "Bilaspur",
+            "latitude": 22.0794,
+            "longitude": 82.1466
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 228,
+        "fields": {
+            "city_name": "Dantewada",
+            "latitude": 19.1000,
+            "longitude": 81.2600
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 229,
+        "fields": {
+            "city_name": "Kondagaon",
+            "latitude": 19.1352,
+            "longitude": 81.5027
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 230,
+        "fields": {
+            "city_name": "Mahasamund",
+            "latitude": 21.1670,
+            "longitude": 82.1315
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 231,
+        "fields": {
+            "city_name": "Balod",
+            "latitude": 20.3748,
+            "longitude": 81.0900
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 232,
+        "fields": {
+            "city_name": "Mungeli",
+            "latitude": 22.2953,
+            "longitude": 81.2260
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 233,
+        "fields": {
+            "city_name": "Kanker",
+            "latitude": 20.1844,
+            "longitude": 81.2171
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 234,
+        "fields": {
+            "city_name": "Pendra Road",
+            "latitude": 22.1500,
+            "longitude": 82.0167
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 235,
+        "fields": {
+            "city_name": "Dongargaon",
+            "latitude": 21.2000,
+            "longitude": 81.2500
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 236,
+        "fields": {
+            "city_name": "Sakti",
+            "latitude": 22.0773,
+            "longitude": 82.0838
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 237,
+        "fields": {
+            "city_name": "Naila Janjgir",
+            "latitude": 22.4100,
+            "longitude": 82.1190
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 238,
+        "fields": {
+            "city_name": "Gariaband",
+            "latitude": 20.2000,
+            "longitude": 81.8500
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 239,
+        "fields": {
+            "city_name": "Bemetara",
+            "latitude": 21.2923,
+            "longitude": 81.3017
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 240,
+        "fields": {
+            "city_name": "Kawardha",
+            "latitude": 20.8100,
+            "longitude": 81.5200
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 241,
+        "fields": {
+            "city_name": "Dharamjaigarh",
+            "latitude": 22.0956,
+            "longitude": 82.3504
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 242,
+        "fields": {
+            "city_name": "Bilaigarh",
+            "latitude": 21.6522,
+            "longitude": 82.0946
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 243,
+        "fields": {
+            "city_name": "Nandghat",
+            "latitude": 20.2000,
+            "longitude": 81.1500
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 244,
+        "fields": {
+            "city_name": "Bhatapara",
+            "latitude": 21.9000,
+            "longitude": 82.1494
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 245,
+        "fields": {
+            "city_name": "Sihora",
+            "latitude": 23.1663,
+            "longitude": 80.7251
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 246,
+        "fields": {
+            "city_name": "Pathalgaon",
+            "latitude": 22.1700,
+            "longitude": 83.3150
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 247,
+        "fields": {
+            "city_name": "Raigarh",
+            "latitude": 21.8954,
+            "longitude": 83.3980
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 248,
+        "fields": {
+            "city_name": "Surguja",
+            "latitude": 23.3290,
+            "longitude": 82.9473
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 249,
+        "fields": {
+            "city_name": "Kondagaon",
+            "latitude": 19.1352,
+            "longitude": 81.5027
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 250,
+        "fields": {
+            "city_name": "Dhamtari",
+            "latitude": 20.6754,
+            "longitude": 81.6350
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 251,
+        "fields": {
+            "city_name": "Hyderabad",
+            "latitude": 17.3850,
+            "longitude": 78.4867
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 252,
+        "fields": {
+            "city_name": "Warangal",
+            "latitude": 17.9784,
+            "longitude": 79.6010
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 253,
+        "fields": {
+            "city_name": "Nizamabad",
+            "latitude": 18.6725,
+            "longitude": 78.0941
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 254,
+        "fields": {
+            "city_name": "Khammam",
+            "latitude": 17.2473,
+            "longitude": 80.1514
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 255,
+        "fields": {
+            "city_name": "Karimnagar",
+            "latitude": 18.4386,
+            "longitude": 79.1288
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 256,
+        "fields": {
+            "city_name": "Mahbubnagar",
+            "latitude": 16.7381,
+            "longitude": 77.9975
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 257,
+        "fields": {
+            "city_name": "Ramagundam",
+            "latitude": 18.7596,
+            "longitude": 79.4788
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 258,
+        "fields": {
+            "city_name": "Nalgonda",
+            "latitude": 17.0575,
+            "longitude": 79.2684
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 259,
+        "fields": {
+            "city_name": "Adilabad",
+            "latitude": 19.6739,
+            "longitude": 78.5359
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 260,
+        "fields": {
+            "city_name": "Siddipet",
+            "latitude": 18.1048,
+            "longitude": 78.8486
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 261,
+        "fields": {
+            "city_name": "Mancherial",
+            "latitude": 18.8707,
+            "longitude": 79.4288
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 262,
+        "fields": {
+            "city_name": "Bhadrachalam",
+            "latitude": 17.6685,
+            "longitude": 80.8884
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 263,
+        "fields": {
+            "city_name": "Vikarabad",
+            "latitude": 17.3386,
+            "longitude": 77.9041
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 264,
+        "fields": {
+            "city_name": "Miryalaguda",
+            "latitude": 16.8737,
+            "longitude": 79.5625
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 265,
+        "fields": {
+            "city_name": "Suryapet",
+            "latitude": 17.1387,
+            "longitude": 79.6201
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 266,
+        "fields": {
+            "city_name": "Jagitial",
+            "latitude": 18.7956,
+            "longitude": 78.9128
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 267,
+        "fields": {
+            "city_name": "Kamareddy",
+            "latitude": 18.3160,
+            "longitude": 78.3419
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 268,
+        "fields": {
+            "city_name": "Tandur",
+            "latitude": 17.2426,
+            "longitude": 77.5771
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 269,
+        "fields": {
+            "city_name": "Kothagudem",
+            "latitude": 17.5510,
+            "longitude": 80.6180
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 270,
+        "fields": {
+            "city_name": "Medak",
+            "latitude": 18.0453,
+            "longitude": 78.2600
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 271,
+        "fields": {
+            "city_name": "Zaheerabad",
+            "latitude": 17.6801,
+            "longitude": 77.6139
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 272,
+        "fields": {
+            "city_name": "Wanaparthy",
+            "latitude": 16.3613,
+            "longitude": 78.0684
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 273,
+        "fields": {
+            "city_name": "Narayanpet",
+            "latitude": 16.7462,
+            "longitude": 77.4954
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 274,
+        "fields": {
+            "city_name": "Jangaon",
+            "latitude": 17.7210,
+            "longitude": 79.1515
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 275,
+        "fields": {
+            "city_name": "Bhupalpally",
+            "latitude": 18.4565,
+            "longitude": 79.8667
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 276,
+        "fields": {
+            "city_name": "Nagarkurnool",
+            "latitude": 16.4845,
+            "longitude": 78.3242
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 277,
+        "fields": {
+            "city_name": "Mahabubabad",
+            "latitude": 17.5976,
+            "longitude": 80.0076
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 278,
+        "fields": {
+            "city_name": "Mulugu",
+            "latitude": 18.1952,
+            "longitude": 79.9370
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 279,
+        "fields": {
+            "city_name": "Kagaznagar",
+            "latitude": 19.3316,
+            "longitude": 79.4667
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 280,
+        "fields": {
+            "city_name": "Siddipet",
+            "latitude": 18.1010,
+            "longitude": 78.8520
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 281,
+        "fields": {
+            "city_name": "Bengaluru",
+            "latitude": 12.9716,
+            "longitude": 77.5946
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 282,
+        "fields": {
+            "city_name": "Mysuru",
+            "latitude": 12.2958,
+            "longitude": 76.6394
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 283,
+        "fields": {
+            "city_name": "Mangaluru",
+            "latitude": 12.9141,
+            "longitude": 74.8560
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 284,
+        "fields": {
+            "city_name": "Hubballi",
+            "latitude": 15.3647,
+            "longitude": 75.1239
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 285,
+        "fields": {
+            "city_name": "Dharwad",
+            "latitude": 15.4589,
+            "longitude": 75.0078
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 286,
+        "fields": {
+            "city_name": "Shivamogga",
+            "latitude": 13.9299,
+            "longitude": 75.5681
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 287,
+        "fields": {
+            "city_name": "Belagavi",
+            "latitude": 15.8497,
+            "longitude": 74.4977
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 288,
+        "fields": {
+            "city_name": "Ballari",
+            "latitude": 15.1394,
+            "longitude": 76.9214
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 289,
+        "fields": {
+            "city_name": "Davangere",
+            "latitude": 14.4645,
+            "longitude": 75.9238
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 290,
+        "fields": {
+            "city_name": "Tumakuru",
+            "latitude": 13.3392,
+            "longitude": 77.1130
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 291,
+        "fields": {
+            "city_name": "Vijayapura",
+            "latitude": 16.8302,
+            "longitude": 75.7100
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 292,
+        "fields": {
+            "city_name": "Udupi",
+            "latitude": 13.3409,
+            "longitude": 74.7421
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 293,
+        "fields": {
+            "city_name": "Bidar",
+            "latitude": 17.9133,
+            "longitude": 77.5040
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 294,
+        "fields": {
+            "city_name": "Chikkamagaluru",
+            "latitude": 13.3161,
+            "longitude": 75.7727
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 295,
+        "fields": {
+            "city_name": "Raichur",
+            "latitude": 16.2013,
+            "longitude": 77.3566
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 296,
+        "fields": {
+            "city_name": "Ramanagara",
+            "latitude": 12.7220,
+            "longitude": 77.2814
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 297,
+        "fields": {
+            "city_name": "Kolar",
+            "latitude": 13.1369,
+            "longitude": 78.1291
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 298,
+        "fields": {
+            "city_name": "Hassan",
+            "latitude": 13.0071,
+            "longitude": 76.0940
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 299,
+        "fields": {
+            "city_name": "Mandya",
+            "latitude": 12.5245,
+            "longitude": 76.8972
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 300,
+        "fields": {
+            "city_name": "Chitradurga",
+            "latitude": 14.2220,
+            "longitude": 76.4005
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 301,
+        "fields": {
+            "city_name": "Gadag",
+            "latitude": 15.4163,
+            "longitude": 75.6295
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 302,
+        "fields": {
+            "city_name": "Haveri",
+            "latitude": 14.7936,
+            "longitude": 75.4043
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 303,
+        "fields": {
+            "city_name": "Yadgir",
+            "latitude": 16.7700,
+            "longitude": 77.1376
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 304,
+        "fields": {
+            "city_name": "Karwar",
+            "latitude": 14.8020,
+            "longitude": 74.1240
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 305,
+        "fields": {
+            "city_name": "Sirsi",
+            "latitude": 14.6207,
+            "longitude": 74.8356
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 306,
+        "fields": {
+            "city_name": "Chikballapur",
+            "latitude": 13.4355,
+            "longitude": 77.7280
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 307,
+        "fields": {
+            "city_name": "Bagalkot",
+            "latitude": 16.1798,
+            "longitude": 75.6986
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 308,
+        "fields": {
+            "city_name": "Koppal",
+            "latitude": 15.3450,
+            "longitude": 76.1545
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 309,
+        "fields": {
+            "city_name": "Shivamogga",
+            "latitude": 13.9299,
+            "longitude": 75.5681
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 310,
+        "fields": {
+            "city_name": "Kollegal",
+            "latitude": 12.1562,
+            "longitude": 77.1130
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 311,
+        "fields": {
+            "city_name": "Visakhapatnam",
+            "latitude": 17.6868,
+            "longitude": 83.2185
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 312,
+        "fields": {
+            "city_name": "Vijayawada",
+            "latitude": 16.5062,
+            "longitude": 80.6480
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 313,
+        "fields": {
+            "city_name": "Guntur",
+            "latitude": 16.3067,
+            "longitude": 80.4365
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 314,
+        "fields": {
+            "city_name": "Nellore",
+            "latitude": 14.4426,
+            "longitude": 79.9865
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 315,
+        "fields": {
+            "city_name": "Kurnool",
+            "latitude": 15.8281,
+            "longitude": 78.0373
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 316,
+        "fields": {
+            "city_name": "Rajahmundry",
+            "latitude": 17.0005,
+            "longitude": 81.8040
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 317,
+        "fields": {
+            "city_name": "Kadapa",
+            "latitude": 14.4673,
+            "longitude": 78.8242
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 318,
+        "fields": {
+            "city_name": "Tirupati",
+            "latitude": 13.6288,
+            "longitude": 79.4192
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 319,
+        "fields": {
+            "city_name": "Anantapur",
+            "latitude": 14.6819,
+            "longitude": 77.6006
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 320,
+        "fields": {
+            "city_name": "Ongole",
+            "latitude": 15.5057,
+            "longitude": 80.0499
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 321,
+        "fields": {
+            "city_name": "Eluru",
+            "latitude": 16.7107,
+            "longitude": 81.1045
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 322,
+        "fields": {
+            "city_name": "Kakinada",
+            "latitude": 16.9891,
+            "longitude": 82.2475
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 323,
+        "fields": {
+            "city_name": "Chittoor",
+            "latitude": 13.2172,
+            "longitude": 79.1003
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 324,
+        "fields": {
+            "city_name": "Proddatur",
+            "latitude": 14.7502,
+            "longitude": 78.5480
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 325,
+        "fields": {
+            "city_name": "Srikakulam",
+            "latitude": 18.2949,
+            "longitude": 83.8938
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 326,
+        "fields": {
+            "city_name": "Machilipatnam",
+            "latitude": 16.1875,
+            "longitude": 81.1389
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 327,
+        "fields": {
+            "city_name": "Adoni",
+            "latitude": 15.6250,
+            "longitude": 77.2758
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 328,
+        "fields": {
+            "city_name": "Tenali",
+            "latitude": 16.2430,
+            "longitude": 80.6456
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 329,
+        "fields": {
+            "city_name": "Chilakaluripet",
+            "latitude": 16.0893,
+            "longitude": 80.1670
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 330,
+        "fields": {
+            "city_name": "Tadepalligudem",
+            "latitude": 16.8147,
+            "longitude": 81.5271
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 331,
+        "fields": {
+            "city_name": "Madanapalle",
+            "latitude": 13.5524,
+            "longitude": 78.5029
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 332,
+        "fields": {
+            "city_name": "Tadipatri",
+            "latitude": 14.9078,
+            "longitude": 78.0082
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 333,
+        "fields": {
+            "city_name": "Bhimavaram",
+            "latitude": 16.5449,
+            "longitude": 81.5212
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 334,
+        "fields": {
+            "city_name": "Vizianagaram",
+            "latitude": 18.1067,
+            "longitude": 83.3955
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 335,
+        "fields": {
+            "city_name": "Hindupur",
+            "latitude": 13.8282,
+            "longitude": 77.4920
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 336,
+        "fields": {
+            "city_name": "Gudur",
+            "latitude": 14.1509,
+            "longitude": 79.8520
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 337,
+        "fields": {
+            "city_name": "Markapur",
+            "latitude": 15.7351,
+            "longitude": 79.2700
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 338,
+        "fields": {
+            "city_name": "Puttur",
+            "latitude": 13.4505,
+            "longitude": 79.5537
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 339,
+        "fields": {
+            "city_name": "Narasaraopet",
+            "latitude": 16.2362,
+            "longitude": 80.0540
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 340,
+        "fields": {
+            "city_name": "Nandyal",
+            "latitude": 15.4786,
+            "longitude": 78.4836
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 341,
+        "fields": {
+            "city_name": "Thiruvananthapuram",
+            "latitude": 8.5241,
+            "longitude": 76.9366
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 342,
+        "fields": {
+            "city_name": "Kochi",
+            "latitude": 9.9312,
+            "longitude": 76.2673
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 343,
+        "fields": {
+            "city_name": "Kozhikode",
+            "latitude": 11.2588,
+            "longitude": 75.7804
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 344,
+        "fields": {
+            "city_name": "Kollam",
+            "latitude": 8.8932,
+            "longitude": 76.6141
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 345,
+        "fields": {
+            "city_name": "Thrissur",
+            "latitude": 10.5276,
+            "longitude": 76.2144
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 346,
+        "fields": {
+            "city_name": "Kannur",
+            "latitude": 11.8745,
+            "longitude": 75.3704
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 347,
+        "fields": {
+            "city_name": "Alappuzha",
+            "latitude": 9.4981,
+            "longitude": 76.3388
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 348,
+        "fields": {
+            "city_name": "Palakkad",
+            "latitude": 10.7867,
+            "longitude": 76.6548
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 349,
+        "fields": {
+            "city_name": "Kottayam",
+            "latitude": 9.5916,
+            "longitude": 76.5222
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 350,
+        "fields": {
+            "city_name": "Malappuram",
+            "latitude": 11.0732,
+            "longitude": 76.0748
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 351,
+        "fields": {
+            "city_name": "Pathanamthitta",
+            "latitude": 9.2645,
+            "longitude": 76.7875
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 352,
+        "fields": {
+            "city_name": "Varkala",
+            "latitude": 8.7379,
+            "longitude": 76.7162
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 353,
+        "fields": {
+            "city_name": "Attingal",
+            "latitude": 8.6961,
+            "longitude": 76.8159
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 354,
+        "fields": {
+            "city_name": "Idukki",
+            "latitude": 9.8497,
+            "longitude": 76.9856
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 355,
+        "fields": {
+            "city_name": "Cherthala",
+            "latitude": 9.6884,
+            "longitude": 76.3298
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 356,
+        "fields": {
+            "city_name": "Neyyattinkara",
+            "latitude": 8.3985,
+            "longitude": 77.0850
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 357,
+        "fields": {
+            "city_name": "Perinthalmanna",
+            "latitude": 10.9805,
+            "longitude": 76.2239
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 358,
+        "fields": {
+            "city_name": "Ponnani",
+            "latitude": 10.7662,
+            "longitude": 75.9250
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 359,
+        "fields": {
+            "city_name": "Kasaragod",
+            "latitude": 12.4996,
+            "longitude": 74.9866
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 360,
+        "fields": {
+            "city_name": "Guruvayur",
+            "latitude": 10.5943,
+            "longitude": 76.0410
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 361,
+        "fields": {
+            "city_name": "Manjeri",
+            "latitude": 11.1229,
+            "longitude": 76.1191
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 362,
+        "fields": {
+            "city_name": "Changanassery",
+            "latitude": 9.4440,
+            "longitude": 76.5399
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 363,
+        "fields": {
+            "city_name": "Kodungallur",
+            "latitude": 10.2223,
+            "longitude": 76.1991
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 364,
+        "fields": {
+            "city_name": "Adoor",
+            "latitude": 9.1586,
+            "longitude": 76.7267
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 365,
+        "fields": {
+            "city_name": "Kanhangad",
+            "latitude": 12.3090,
+            "longitude": 75.0865
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 366,
+        "fields": {
+            "city_name": "Muvattupuzha",
+            "latitude": 9.9856,
+            "longitude": 76.5775
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 367,
+        "fields": {
+            "city_name": "Vaikom",
+            "latitude": 9.7474,
+            "longitude": 76.3969
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 368,
+        "fields": {
+            "city_name": "Ottappalam",
+            "latitude": 10.7706,
+            "longitude": 76.3783
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 369,
+        "fields": {
+            "city_name": "Paravur",
+            "latitude": 8.7924,
+            "longitude": 76.6991
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 370,
+        "fields": {
+            "city_name": "Shoranur",
+            "latitude": 10.7597,
+            "longitude": 76.2746
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 371,
+        "fields": {
+            "city_name": "Chennai",
+            "latitude": 13.0827,
+            "longitude": 80.2707
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 372,
+        "fields": {
+            "city_name": "Coimbatore",
+            "latitude": 11.0168,
+            "longitude": 76.9558
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 373,
+        "fields": {
+            "city_name": "Madurai",
+            "latitude": 9.9252,
+            "longitude": 78.1198
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 374,
+        "fields": {
+            "city_name": "Tiruchirappalli",
+            "latitude": 10.7905,
+            "longitude": 78.7047
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 375,
+        "fields": {
+            "city_name": "Salem",
+            "latitude": 11.6643,
+            "longitude": 78.1460
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 376,
+        "fields": {
+            "city_name": "Tirunelveli",
+            "latitude": 8.7139,
+            "longitude": 77.7567
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 377,
+        "fields": {
+            "city_name": "Vellore",
+            "latitude": 12.9165,
+            "longitude": 79.1325
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 378,
+        "fields": {
+            "city_name": "Erode",
+            "latitude": 11.3410,
+            "longitude": 77.7172
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 379,
+        "fields": {
+            "city_name": "Thoothukudi",
+            "latitude": 8.7642,
+            "longitude": 78.1348
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 380,
+        "fields": {
+            "city_name": "Thanjavur",
+            "latitude": 10.7867,
+            "longitude": 79.1391
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 381,
+        "fields": {
+            "city_name": "Dindigul",
+            "latitude": 10.3673,
+            "longitude": 77.9803
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 382,
+        "fields": {
+            "city_name": "Karur",
+            "latitude": 10.9601,
+            "longitude": 78.0766
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 383,
+        "fields": {
+            "city_name": "Kanchipuram",
+            "latitude": 12.8342,
+            "longitude": 79.7036
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 384,
+        "fields": {
+            "city_name": "Nagercoil",
+            "latitude": 8.1773,
+            "longitude": 77.4344
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 385,
+        "fields": {
+            "city_name": "Tiruvannamalai",
+            "latitude": 12.2266,
+            "longitude": 79.0747
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 386,
+        "fields": {
+            "city_name": "Virudhunagar",
+            "latitude": 9.5815,
+            "longitude": 77.9572
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 387,
+        "fields": {
+            "city_name": "Sivakasi",
+            "latitude": 9.4564,
+            "longitude": 77.7984
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 388,
+        "fields": {
+            "city_name": "Namakkal",
+            "latitude": 11.2189,
+            "longitude": 78.1674
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 389,
+        "fields": {
+            "city_name": "Pudukkottai",
+            "latitude": 10.3813,
+            "longitude": 78.8213
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 390,
+        "fields": {
+            "city_name": "Kumarapalayam",
+            "latitude": 11.4572,
+            "longitude": 77.7227
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 391,
+        "fields": {
+            "city_name": "Nagapattinam",
+            "latitude": 10.7637,
+            "longitude": 79.8415
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 392,
+        "fields": {
+            "city_name": "Hosur",
+            "latitude": 12.7400,
+            "longitude": 77.8284
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 393,
+        "fields": {
+            "city_name": "Theni",
+            "latitude": 10.0104,
+            "longitude": 77.4777
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 394,
+        "fields": {
+            "city_name": "Kumbakonam",
+            "latitude": 10.9627,
+            "longitude": 79.3880
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 395,
+        "fields": {
+            "city_name": "Perambalur",
+            "latitude": 11.2333,
+            "longitude": 78.8787
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 396,
+        "fields": {
+            "city_name": "Tiruppur",
+            "latitude": 11.1085,
+            "longitude": 77.3411
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 397,
+        "fields": {
+            "city_name": "Chidambaram",
+            "latitude": 11.3995,
+            "longitude": 79.6936
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 398,
+        "fields": {
+            "city_name": "Pollachi",
+            "latitude": 10.6586,
+            "longitude": 77.0087
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 399,
+        "fields": {
+            "city_name": "Ramanathapuram",
+            "latitude": 9.3717,
+            "longitude": 78.8303
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 400,
+        "fields": {
+            "city_name": "Udumalaipettai",
+            "latitude": 10.5886,
+            "longitude": 77.2466
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 401,
+        "fields": {
+            "city_name": "Bhubaneswar",
+            "latitude": 20.2961,
+            "longitude": 85.8245
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 402,
+        "fields": {
+            "city_name": "Cuttack",
+            "latitude": 20.4625,
+            "longitude": 85.8828
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 403,
+        "fields": {
+            "city_name": "Rourkela",
+            "latitude": 22.2604,
+            "longitude": 84.8536
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 404,
+        "fields": {
+            "city_name": "Puri",
+            "latitude": 19.8135,
+            "longitude": 85.8312
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 405,
+        "fields": {
+            "city_name": "Sambalpur",
+            "latitude": 21.4669,
+            "longitude": 83.9812
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 406,
+        "fields": {
+            "city_name": "Berhampur",
+            "latitude": 19.3115,
+            "longitude": 84.7929
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 407,
+        "fields": {
+            "city_name": "Balasore",
+            "latitude": 21.4942,
+            "longitude": 86.9311
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 408,
+        "fields": {
+            "city_name": "Baripada",
+            "latitude": 21.9335,
+            "longitude": 86.7493
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 409,
+        "fields": {
+            "city_name": "Bhadrak",
+            "latitude": 21.0576,
+            "longitude": 86.4956
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 410,
+        "fields": {
+            "city_name": "Jharsuguda",
+            "latitude": 21.8671,
+            "longitude": 84.0177
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 411,
+        "fields": {
+            "city_name": "Rayagada",
+            "latitude": 19.1726,
+            "longitude": 83.4125
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 412,
+        "fields": {
+            "city_name": "Kendrapara",
+            "latitude": 20.5013,
+            "longitude": 86.4223
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 413,
+        "fields": {
+            "city_name": "Jajpur",
+            "latitude": 20.8522,
+            "longitude": 86.3377
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 414,
+        "fields": {
+            "city_name": "Balangir",
+            "latitude": 20.7049,
+            "longitude": 83.4904
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 415,
+        "fields": {
+            "city_name": "Koraput",
+            "latitude": 18.8126,
+            "longitude": 82.7101
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 416,
+        "fields": {
+            "city_name": "Angul",
+            "latitude": 20.8381,
+            "longitude": 85.1007
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 417,
+        "fields": {
+            "city_name": "Kalahandi",
+            "latitude": 19.9074,
+            "longitude": 83.1649
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 418,
+        "fields": {
+            "city_name": "Jagatsinghpur",
+            "latitude": 20.2724,
+            "longitude": 86.1719
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 419,
+        "fields": {
+            "city_name": "Nabarangpur",
+            "latitude": 19.2311,
+            "longitude": 82.5477
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 420,
+        "fields": {
+            "city_name": "Paralakhemundi",
+            "latitude": 18.7798,
+            "longitude": 84.0913
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 421,
+        "fields": {
+            "city_name": "Sundargarh",
+            "latitude": 22.1164,
+            "longitude": 84.0342
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 422,
+        "fields": {
+            "city_name": "Titilagarh",
+            "latitude": 20.2893,
+            "longitude": 83.1512
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 423,
+        "fields": {
+            "city_name": "Talcher",
+            "latitude": 20.9494,
+            "longitude": 85.2335
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 424,
+        "fields": {
+            "city_name": "Rairangpur",
+            "latitude": 22.2701,
+            "longitude": 86.1629
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 425,
+        "fields": {
+            "city_name": "Dhenkanal",
+            "latitude": 20.6468,
+            "longitude": 85.5977
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 426,
+        "fields": {
+            "city_name": "Phulbani",
+            "latitude": 20.4742,
+            "longitude": 84.2320
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 427,
+        "fields": {
+            "city_name": "Gunupur",
+            "latitude": 19.0807,
+            "longitude": 83.8112
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 428,
+        "fields": {
+            "city_name": "Bhawanipatna",
+            "latitude": 19.9074,
+            "longitude": 83.1649
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 429,
+        "fields": {
+            "city_name": "Rajgangpur",
+            "latitude": 22.1924,
+            "longitude": 84.5866
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 430,
+        "fields": {
+            "city_name": "Chatrapur",
+            "latitude": 19.3553,
+            "longitude": 84.9866
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 431,
+        "fields": {
+            "city_name": "Ranchi",
+            "latitude": 23.3441,
+            "longitude": 85.3096
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 432,
+        "fields": {
+            "city_name": "Jamshedpur",
+            "latitude": 22.8046,
+            "longitude": 86.2029
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 433,
+        "fields": {
+            "city_name": "Dhanbad",
+            "latitude": 23.7957,
+            "longitude": 86.4304
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 434,
+        "fields": {
+            "city_name": "Bokaro Steel City",
+            "latitude": 23.6693,
+            "longitude": 86.1511
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 435,
+        "fields": {
+            "city_name": "Hazaribagh",
+            "latitude": 23.9955,
+            "longitude": 85.3616
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 436,
+        "fields": {
+            "city_name": "Deoghar",
+            "latitude": 24.4854,
+            "longitude": 86.6952
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 437,
+        "fields": {
+            "city_name": "Giridih",
+            "latitude": 24.1844,
+            "longitude": 86.3054
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 438,
+        "fields": {
+            "city_name": "Ramgarh",
+            "latitude": 23.6302,
+            "longitude": 85.5187
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 439,
+        "fields": {
+            "city_name": "Phusro",
+            "latitude": 23.7786,
+            "longitude": 85.9936
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 440,
+        "fields": {
+            "city_name": "Medininagar",
+            "latitude": 24.0381,
+            "longitude": 84.0701
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 441,
+        "fields": {
+            "city_name": "Chaibasa",
+            "latitude": 22.5481,
+            "longitude": 85.8041
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 442,
+        "fields": {
+            "city_name": "Gumla",
+            "latitude": 23.0431,
+            "longitude": 84.5418
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 443,
+        "fields": {
+            "city_name": "Simdega",
+            "latitude": 22.6154,
+            "longitude": 84.5035
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 444,
+        "fields": {
+            "city_name": "Hazaribagh Road",
+            "latitude": 23.9786,
+            "longitude": 85.3586
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 445,
+        "fields": {
+            "city_name": "Jharia",
+            "latitude": 23.7513,
+            "longitude": 86.4149
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 446,
+        "fields": {
+            "city_name": "Chakradharpur",
+            "latitude": 22.6831,
+            "longitude": 85.6265
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 447,
+        "fields": {
+            "city_name": "Lohardaga",
+            "latitude": 23.4331,
+            "longitude": 84.6842
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 448,
+        "fields": {
+            "city_name": "Chas",
+            "latitude": 23.6355,
+            "longitude": 86.1672
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 449,
+        "fields": {
+            "city_name": "Jhumri Telaiya",
+            "latitude": 24.4348,
+            "longitude": 85.5212
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 450,
+        "fields": {
+            "city_name": "Pakur",
+            "latitude": 24.6344,
+            "longitude": 87.8480
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 451,
+        "fields": {
+            "city_name": "Chandrapura",
+            "latitude": 23.7606,
+            "longitude": 86.1160
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 452,
+        "fields": {
+            "city_name": "Garhwa",
+            "latitude": 24.1606,
+            "longitude": 83.8144
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 453,
+        "fields": {
+            "city_name": "Khunti",
+            "latitude": 23.0803,
+            "longitude": 85.2787
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 454,
+        "fields": {
+            "city_name": "Sahibganj",
+            "latitude": 25.2467,
+            "longitude": 87.6385
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 455,
+        "fields": {
+            "city_name": "Latehar",
+            "latitude": 23.7406,
+            "longitude": 84.5160
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 456,
+        "fields": {
+            "city_name": "Godda",
+            "latitude": 24.8287,
+            "longitude": 87.2126
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 457,
+        "fields": {
+            "city_name": "Saraikela",
+            "latitude": 22.7280,
+            "longitude": 85.9490
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 458,
+        "fields": {
+            "city_name": "Ghatshila",
+            "latitude": 22.5853,
+            "longitude": 86.4752
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 459,
+        "fields": {
+            "city_name": "Barwadih",
+            "latitude": 23.8476,
+            "longitude": 84.1102
+        }
+    },
+    {
+        "model": "trips.search",
+        "pk": 460,
+        "fields": {
+            "city_name": "Ranchi Road",
+            "latitude": 23.5678,
+            "longitude": 85.4912
+        }
+    }
+]

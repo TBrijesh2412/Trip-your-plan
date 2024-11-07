@@ -1,0 +1,108 @@
+/* src/components/RegistrationForm.css */
+
+.registration-form-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7); /* Darker background for emphasis */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure it overlays other content */
+    overflow: auto; /* Allow scrolling if content overflows */
+}
+
+.registration-form-container {
+    background: white;
+    padding: 20px; /* Adjust padding for better layout */
+    border-radius: 10px; /* Smooth corners */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    width: 90%; /* Full width for smaller screens */
+    max-width: 500px; /* Maximum width for larger screens */
+    max-height: 90vh; /* Limit height to 90% of viewport */
+    overflow-y: auto; /* Allow vertical scrolling */
+    animation: slide-in 0.3s ease; /* Animation for opening */
+}
+
+@keyframes slide-in {
+    from {
+        transform: translateY(-30px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.registration-form-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px; /* Increase title size for visibility */
+    text-align: center; /* Centered title */
+    color: #333; /* Darker title color for better contrast */
+}
+
+.registration-form-container label {
+    display: block;
+    margin-bottom: 8px; /* Space between label and input */
+    font-weight: 600; /* Semi-bold labels */
+    color: #555; /* Darker label color */
+}
+
+.registration-form-container input,
+.registration-form-container select,
+.registration-form-container textarea {
+    width: 100%;
+    padding: 12px; /* Ample padding for comfort */
+    margin-bottom: 15px; /* Space between fields */
+    border: 1px solid #ccc; /* Light border for fields */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Comfortable font size */
+    transition: border-color 0.3s ease; /* Smooth transition for focus state */
+}
+
+.registration-form-container input:focus,
+.registration-form-container select:focus,
+.registration-form-container textarea:focus {
+    border-color: #007bff; /* Highlighted border on focus */
+    outline: none; /* No outline */
+}
+
+.registration-form-container textarea {
+    resize: none; /* Disable resizing for a consistent layout */
+    height: 100px; /* Fixed height for textarea */
+}
+
+.registration-form-container button {
+    width: 100%; /* Full width for buttons */
+    padding: 12px; /* Adequate padding */
+    background-color: #007bff; /* Primary button color */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer on hover */
+    font-size: 16px; /* Consistent font size */
+    margin-top: 10px; /* Space above button */
+    transition: background-color 0.3s ease; /* Smooth background change */
+}
+
+.registration-form-container button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+.registration-form-container .cancel-button {
+    background: transparent; /* Transparent for cancel button */
+    color: #007bff; /* Blue text for cancel button */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer on hover */
+    font-size: 16px; /* Consistent font size */
+    text-align: center; /* Center text */
+    margin-top: 10px; /* Space above */
+    text-decoration: underline; /* Underlined text */
+}
+
+.registration-form-container .cancel-button:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
